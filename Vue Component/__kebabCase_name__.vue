@@ -3,12 +3,12 @@
 </template>
 
 <script>
-import './{{kebabCase name}}.styl'
+import "./{{kebabCase name}}.styl";
 
 export default {
   components: {},
-  data () {
-    return {}
+  data() {
+    return {};
   },
-}
+};
 </script>
